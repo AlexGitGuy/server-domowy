@@ -28,7 +28,7 @@ CREATE TABLE users (
 
 in sql_shell:
 sql>create database
-posgresql > properties > connection > hostname/adress :127.0.0.1
+posgresql > properties > connection > hostname/adress :127.0.0.1(the adress in server.js)
 home>querytool> (imput code from pgadmin after creating the table)
 
 if you done all of the steps you should have a running website with all the features working
